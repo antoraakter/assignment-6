@@ -1,0 +1,157 @@
+.navbar{
+    background-color: pink;
+    display: flex;
+    text-align: center;
+    padding: 20px;
+}
+nav{
+    text-align: right;
+    flex: auto;
+}
+nav ul{
+    list-style-type:none;
+    display: inline-block;
+}
+nav ul li{
+    display: inline-block;
+    margin: 20px;
+}
+nav ul li a{
+     text-decoration:none ;
+     color: black;
+     font-size: 20px;
+}
+nav ul li a:hover{
+    color: white;
+    background-color: olive;
+    font-size: 20px;
+}
+.nav-logo img{
+    width: 80px;
+}
+.nav-header h1{
+    text-align: center;
+    color: red;
+    margin: 20px;
+}
+.nav-header h1:hover{
+    color: white;
+    font-size: 30px;
+    background-color:orange;
+}
+.marquee{
+    color: orangered;
+    font-size: 20px;
+}
+.image img{
+    width: 100%;
+    height: 450px;
+    margin: auto;
+    padding: auto;
+}
+.ab h1{
+    text-align: center;
+    color: pink;
+}
+
+.picture {
+    float: left;
+  
+    
+}
+.picture:hover{
+    background-color: plum;
+}
+h2{
+    text-align: center;
+    color: salmon;
+}
+
+
+.a{
+  width:30%;
+ 
+    border:2px solid white;
+    margin:10px;
+    
+    
+}
+.a img{
+    height:100%;
+    margin:auto;
+    display:block;
+}
+.b{
+    width:30%;
+   
+    margin:10px;
+    border:2px solid white;
+   
+
+}
+.b img{
+    height:100%;
+
+    margin:auto;
+    display:block;
+}
+.c{
+    width:30%;
+   
+    margin:10px;
+    border:2px solid white;
+  
+}
+.c img{
+    height:50%;
+    margin:auto;
+    display:block;
+}
+.my{
+    background-color:teal;
+    display:inline-block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.latest{
+    background-color:white;
+    display:block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.image-6 img{
+    width:325px;
+    margin:15px;
+    display: block;
+}
+.image-7 img{
+    width:300px;
+    margin:15px;
+    display: block;
+}
+.image-8 img{
+    width: 325px;
+    margin:15px;
+    display: block;
+}
+.image-9 img{
+    width: 300px;
+    margin:15px;
+    display: block;
+}
+.im{
+    float: left;
+}
+.by{
+    background-color:white;
+    display: inline-block;
+    text-align: center;
+    
+}
+span{
+    color: green;
+    font-size: 30px;
+    
+}
